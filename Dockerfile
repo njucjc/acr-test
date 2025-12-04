@@ -1,2 +1,2 @@
 FROM alibaba-cloud-linux-3-registry.cn-hangzhou.cr.aliyuncs.com/alinux3/alinux3:latest
-RUN sleep 1s
+RUN sleep 3600s
